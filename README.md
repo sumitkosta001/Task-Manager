@@ -31,7 +31,6 @@ TypeScript: Provides type safety and improves code reliability.
 CSS / Tailwind CSS (if used): Used for designing a responsive and modern user interface.
 
 # 🤖 AI Tool Usage
-Generating UI layout ideas form lovable
 
 Debugging React and Next.js errors from chatgpt
 
